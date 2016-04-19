@@ -4,3 +4,9 @@ test
 branch 2
 
 third branch that must reverted
+
+this forth branch must be 
+
+reverf15e9b76a1a62a708505b57f2c24431d407294c9ted
+
+new line to 4
