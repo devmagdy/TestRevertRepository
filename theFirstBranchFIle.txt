@@ -4,3 +4,5 @@ test
 branch 2
 
 third branch that must reverted
+
+this forth branch must be reverted
